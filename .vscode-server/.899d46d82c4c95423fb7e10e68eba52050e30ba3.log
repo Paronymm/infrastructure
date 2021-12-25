@@ -1,0 +1,101 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39688
+
+[19:44:23] Extension host agent started.
+[19:44:25] [127.0.0.1][3c56249f][ManagementConnection] New connection established.
+[19:44:25] [127.0.0.1][fccd8391][ExtensionHostConnection] New connection established.
+[19:44:25] [127.0.0.1][fccd8391][ExtensionHostConnection] <1767> Launched Extension Host Process.
+[19:44:29] No ptyHost heartbeat after 6 seconds
+rejected promise not handled within 1 second: Error: Could not find pty with id "4"
+stack trace: Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty with id "4"
+stack trace: Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "4",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[19:44:54] [127.0.0.1][5fa7e374][ManagementConnection] Unknown reconnection token (never seen).
+[19:45:06] [127.0.0.1][882d4fbe][ManagementConnection] New connection established.
+[19:45:06] [127.0.0.1][bfa095ea][ExtensionHostConnection] New connection established.
+[19:45:07] [127.0.0.1][bfa095ea][ExtensionHostConnection] <1944> Launched Extension Host Process.
+[19:45:12] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:12] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:45:13] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:13] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:45:14] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:14] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:45:14] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:14] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:45:16] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:16] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:45:18] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:45:18] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+rejected promise not handled within 1 second: Error: Could not find pty with id "5"
+stack trace: Error: Could not find pty with id "5",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "5",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateTitle (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1591),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+rejected promise not handled within 1 second: Error: Could not find pty with id "5"
+stack trace: Error: Could not find pty with id "5",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[Error: Could not find pty with id "5",    at l._throwIfNoPty (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:4919),    at l.updateIcon (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:17:1651),    at Object.call (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:13:8419),    at L.onPromise (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4940),    at L.onRawMessage (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:4299),    at /home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:12:3552,    at R.fire (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:8:1712),    at process.Q (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/platform/terminal/node/ptyHostMain.js:6:32910),    at process.emit (events.js:315:20),    at emit (internal/child_process.js:903:12),    at processTicksAndRejections (internal/process/task_queues.js:81:21)]
+[19:46:34] No ptyHost heartbeat after 6 seconds
+[19:54:12] [127.0.0.1][03900380][ManagementConnection] New connection established.
+[19:54:12] [127.0.0.1][d8502abb][ExtensionHostConnection] New connection established.
+[19:54:12] [127.0.0.1][d8502abb][ExtensionHostConnection] <6914> Launched Extension Host Process.
+[19:54:36] [127.0.0.1][03900380][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:54:37] [127.0.0.1][d8502abb][ExtensionHostConnection] <6914> Extension Host Process exited with code: 0, signal: null.
+[19:54:53] [127.0.0.1][251e118a][ManagementConnection] New connection established.
+[19:54:53] [127.0.0.1][8e3c02df][ExtensionHostConnection] New connection established.
+[19:54:53] [127.0.0.1][8e3c02df][ExtensionHostConnection] <7029> Launched Extension Host Process.
+[19:54:58] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:54:58] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:55:00] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:55:00] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:55:00] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:55:00] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:55:01] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:55:01] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:55:04] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:55:04] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[19:55:06] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[19:55:06] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[20:05:27] [127.0.0.1][882d4fbe][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[20:05:27] [127.0.0.1][3c56249f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[20:05:32] [127.0.0.1][251e118a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/dmitrievasa/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[20:06:20] [127.0.0.1][3c56249f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[20:06:20] [127.0.0.1][882d4fbe][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[20:06:20] [127.0.0.1][251e118a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[20:06:20] [127.0.0.1][5a10d2a4][ExtensionHostConnection] New connection established.
+[20:06:20] [127.0.0.1][5a10d2a4][ExtensionHostConnection] <7452> Launched Extension Host Process.
+[20:06:20] [127.0.0.1][b03c1039][ManagementConnection] New connection established.
+[20:07:09] [127.0.0.1][b03c1039][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:07:10] [127.0.0.1][5a10d2a4][ExtensionHostConnection] <7452> Extension Host Process exited with code: 0, signal: null.
+[20:07:22] [127.0.0.1][5a6a4ead][ManagementConnection] New connection established.
+[20:07:22] [127.0.0.1][f61f33f5][ExtensionHostConnection] New connection established.
+[20:07:22] [127.0.0.1][f61f33f5][ExtensionHostConnection] <7572> Launched Extension Host Process.
+[20:07:26] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:26] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[20:07:27] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:27] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[20:07:28] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:28] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[20:07:29] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:29] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[20:07:30] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:30] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[20:07:32] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[20:07:32] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[IPC Library: Pty Host]  INFO Persistent process "21": Replaying 727 chars and 1 size events

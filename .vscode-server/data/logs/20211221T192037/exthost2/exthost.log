@@ -1,0 +1,15 @@
+[2021-12-21 19:34:55.729] [exthost] [info] Extension host with pid 3019 started
+[2021-12-21 19:34:55.788] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e/vscode.lock': Lock acquired.
+[2021-12-21 19:34:56.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-21 19:34:56.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-21 19:34:57.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-21 19:34:57.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-21 19:34:57.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 19:34:58.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 19:34:58.086] [exthost] [info] Eager extensions activated
+[2021-12-21 19:46:20.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-12-21 20:17:22.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2021-12-21 20:53:57.870] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2021-12-21 21:39:24.124] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-12-21 21:39:24.289] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-12-21 21:39:26.214] [exthost] [info] Extension host with pid 3019 exiting with code 0

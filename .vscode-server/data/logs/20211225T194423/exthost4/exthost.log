@@ -1,0 +1,10 @@
+[2021-12-25 19:55:03.885] [exthost] [info] Extension host with pid 7029 started
+[2021-12-25 19:55:04.049] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/fa5ba408fcb4e63a913b10ba6e568569/vscode.lock': Lock acquired.
+[2021-12-25 19:55:05.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-25 19:55:05.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-25 19:55:05.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-25 19:55:06.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-25 19:55:06.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 19:55:06.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-25 19:55:06.907] [exthost] [info] Eager extensions activated
+[2021-12-25 20:04:03.202] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'

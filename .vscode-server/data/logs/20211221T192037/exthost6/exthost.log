@@ -1,0 +1,16 @@
+[2021-12-21 21:50:42.812] [exthost] [info] Extension host with pid 41538 started
+[2021-12-21 21:50:42.820] [exthost] [error] Error: EEXIST: file already exists, open '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e/vscode.lock'
+[2021-12-21 21:50:42.842] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-12-21 21:50:42.916] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e/vscode.lock': The lock does not look stale, elapsed: 1015 ms, giving up.
+[2021-12-21 21:50:43.012] [exthost] [info] Lock '/home/dmitrievasa/.vscode-server/data/User/workspaceStorage/b5ef23f7f6f1cb8ff6c85be87583218e-1/vscode.lock': Lock acquired.
+[2021-12-21 21:50:43.977] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-21 21:50:47.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-21 21:50:47.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-21 21:50:48.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-21 21:50:48.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-21 21:50:52.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 21:50:52.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-21 21:50:52.685] [exthost] [info] Eager extensions activated
+[2021-12-21 23:31:12.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-21 23:31:12.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-21 23:31:14.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

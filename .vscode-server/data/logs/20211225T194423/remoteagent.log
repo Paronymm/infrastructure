@@ -1,0 +1,78 @@
+[2021-12-25 19:44:23.929] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-25 19:44:23.929] [remoteagent] [info] Extension host agent started.
+[2021-12-25 19:44:25.524] [remoteagent] [info] [127.0.0.1][3c56249f][ManagementConnection] New connection established.
+[2021-12-25 19:44:25.531] [remoteagent] [info] [127.0.0.1][fccd8391][ExtensionHostConnection] New connection established.
+[2021-12-25 19:44:25.596] [remoteagent] [info] [127.0.0.1][fccd8391][ExtensionHostConnection] <1767> Launched Extension Host Process.
+[2021-12-25 19:44:29.730] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-25 19:44:54.752] [remoteagent] [error] [127.0.0.1][5fa7e374][ManagementConnection] Unknown reconnection token (never seen).
+[2021-12-25 19:45:06.972] [remoteagent] [info] [127.0.0.1][882d4fbe][ManagementConnection] New connection established.
+[2021-12-25 19:45:06.986] [remoteagent] [info] [127.0.0.1][bfa095ea][ExtensionHostConnection] New connection established.
+[2021-12-25 19:45:07.061] [remoteagent] [info] [127.0.0.1][bfa095ea][ExtensionHostConnection] <1944> Launched Extension Host Process.
+[2021-12-25 19:45:12.092] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:12.093] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:45:13.529] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:13.530] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:45:14.226] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:14.227] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:45:14.881] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:14.885] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:45:16.059] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:16.060] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:45:18.842] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:45:18.843] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-25 19:46:37.631] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-25 19:54:12.642] [remoteagent] [info] [127.0.0.1][03900380][ManagementConnection] New connection established.
+[2021-12-25 19:54:12.656] [remoteagent] [info] [127.0.0.1][d8502abb][ExtensionHostConnection] New connection established.
+[2021-12-25 19:54:12.775] [remoteagent] [info] [127.0.0.1][d8502abb][ExtensionHostConnection] <6914> Launched Extension Host Process.
+[2021-12-25 19:54:36.945] [remoteagent] [info] [127.0.0.1][03900380][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 19:54:37.189] [remoteagent] [info] [127.0.0.1][d8502abb][ExtensionHostConnection] <6914> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 19:54:53.736] [remoteagent] [info] [127.0.0.1][251e118a][ManagementConnection] New connection established.
+[2021-12-25 19:54:53.742] [remoteagent] [info] [127.0.0.1][8e3c02df][ExtensionHostConnection] New connection established.
+[2021-12-25 19:54:53.774] [remoteagent] [info] [127.0.0.1][8e3c02df][ExtensionHostConnection] <7029> Launched Extension Host Process.
+[2021-12-25 19:54:58.781] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:54:58.783] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:55:00.083] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:55:00.084] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:55:00.814] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:55:00.815] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:55:01.825] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:55:01.826] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:55:04.589] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:55:04.590] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 19:55:06.218] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 19:55:06.218] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-25 20:05:27.704] [remoteagent] [info] [127.0.0.1][882d4fbe][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-25 20:05:27.706] [remoteagent] [info] [127.0.0.1][3c56249f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-25 20:05:32.721] [remoteagent] [info] [127.0.0.1][251e118a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-25 20:06:20.821] [remoteagent] [info] [127.0.0.1][3c56249f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-25 20:06:20.821] [remoteagent] [info] [127.0.0.1][882d4fbe][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-25 20:06:20.821] [remoteagent] [info] [127.0.0.1][251e118a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-25 20:06:20.823] [remoteagent] [info] [127.0.0.1][5a10d2a4][ExtensionHostConnection] New connection established.
+[2021-12-25 20:06:20.866] [remoteagent] [info] [127.0.0.1][5a10d2a4][ExtensionHostConnection] <7452> Launched Extension Host Process.
+[2021-12-25 20:06:20.880] [remoteagent] [info] [127.0.0.1][b03c1039][ManagementConnection] New connection established.
+[2021-12-25 20:07:09.949] [remoteagent] [info] [127.0.0.1][b03c1039][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-25 20:07:10.127] [remoteagent] [info] [127.0.0.1][5a10d2a4][ExtensionHostConnection] <7452> Extension Host Process exited with code: 0, signal: null.
+[2021-12-25 20:07:22.424] [remoteagent] [info] [127.0.0.1][5a6a4ead][ManagementConnection] New connection established.
+[2021-12-25 20:07:22.432] [remoteagent] [info] [127.0.0.1][f61f33f5][ExtensionHostConnection] New connection established.
+[2021-12-25 20:07:22.475] [remoteagent] [info] [127.0.0.1][f61f33f5][ExtensionHostConnection] <7572> Launched Extension Host Process.
+[2021-12-25 20:07:26.209] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:26.210] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 20:07:27.828] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:27.829] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 20:07:28.443] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:28.443] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 20:07:29.031] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:29.032] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 20:07:30.076] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:30.077] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-25 20:07:32.611] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-25 20:07:32.612] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor

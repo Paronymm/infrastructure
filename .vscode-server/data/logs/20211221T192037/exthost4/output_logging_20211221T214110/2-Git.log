@@ -1,0 +1,110 @@
+Validating found git in: git
+Using git 2.9.5 from git
+Opening repository for path='/home/dmitrievasa' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/.bash_profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/.pki' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/Dockerfile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/conf' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/docker-compose.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/git-2.9.5' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa/git-2.9.5.tar.gz' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/dmitrievasa/html' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/dmitrievasa/html/reg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/dmitrievasa/html/reg/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :db.php
+> git ls-files --stage -- /home/dmitrievasa/html/reg/db.php
+> git check-ignore -v -z --stdin
+> git cat-file -s fa433b96b60477cefa213874add6f5b73a99acac
+Opening repository for path='/home/dmitrievasa/conf' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/dmitrievasa' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :db.php
+> git ls-files --stage -- /home/dmitrievasa/html/reg/db.php
+> git cat-file -s fa433b96b60477cefa213874add6f5b73a99acac
+Opening repository for path='/home/dmitrievasa' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: Not a git repository (or any of the parent directories): .git\n"
+}

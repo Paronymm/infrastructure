@@ -1,0 +1,94 @@
+[2021-12-21 19:20:37.632] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-21 19:20:37.633] [remoteagent] [info] Extension host agent started.
+[2021-12-21 19:20:39.216] [remoteagent] [info] [127.0.0.1][5bdd6fd0][ManagementConnection] New connection established.
+[2021-12-21 19:20:39.271] [remoteagent] [info] [127.0.0.1][e978449d][ExtensionHostConnection] New connection established.
+[2021-12-21 19:20:39.326] [remoteagent] [info] [127.0.0.1][e978449d][ExtensionHostConnection] <1607> Launched Extension Host Process.
+[2021-12-21 19:20:43.457] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 19:34:27.713] [remoteagent] [info] [127.0.0.1][5bdd6fd0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-21 19:34:27.926] [remoteagent] [info] [127.0.0.1][e978449d][ExtensionHostConnection] <1607> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 19:34:27.930] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-21 19:34:45.399] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-21 19:34:45.400] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-21 19:34:46.062] [remoteagent] [info] [127.0.0.1][18c7017e][ManagementConnection] New connection established.
+[2021-12-21 19:34:46.067] [remoteagent] [info] [127.0.0.1][417b6474][ExtensionHostConnection] New connection established.
+[2021-12-21 19:34:46.134] [remoteagent] [info] [127.0.0.1][417b6474][ExtensionHostConnection] <3019> Launched Extension Host Process.
+[2021-12-21 19:39:45.401] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-21 20:45:16.912] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 20:47:19.586] [remoteagent] [info] [127.0.0.1][593cc6f1][ManagementConnection] New connection established.
+[2021-12-21 20:47:19.598] [remoteagent] [info] [127.0.0.1][e4ab418a][ExtensionHostConnection] New connection established.
+[2021-12-21 20:47:19.725] [remoteagent] [info] [127.0.0.1][e4ab418a][ExtensionHostConnection] <16769> Launched Extension Host Process.
+[2021-12-21 20:53:44.581] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-12-21 20:53:49.037] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/dmitrievasa/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2021-12-21 20:53:51.057] [remoteagent] [info] Extracted extension to /home/dmitrievasa/.vscode-server/extensions/.dcb25b34-1d1f-40d6-842f-06511694d6f1: ms-azuretools.vscode-docker
+[2021-12-21 20:53:51.102] [remoteagent] [info] Renamed to /home/dmitrievasa/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[2021-12-21 20:53:51.122] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-12-21 20:53:51.128] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-12-21 20:54:12.220] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 20:54:35.665] [remoteagent] [info] [127.0.0.1][417b6474][ExtensionHostConnection] The client has reconnected.
+[2021-12-21 20:55:08.248] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 20:55:17.534] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 20:55:19.640] [remoteagent] [info] [127.0.0.1][417b6474][ExtensionHostConnection] The client has reconnected.
+[2021-12-21 20:55:31.999] [remoteagent] [info] [127.0.0.1][593cc6f1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-21 21:03:28.374] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 21:16:35.076] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 21:39:24.280] [remoteagent] [info] [127.0.0.1][18c7017e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-21 21:39:26.638] [remoteagent] [info] [127.0.0.1][417b6474][ExtensionHostConnection] <3019> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 21:40:30.783] [remoteagent] [info] [127.0.0.1][593cc6f1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-21 21:40:30.795] [remoteagent] [info] [127.0.0.1][c1d858bf][ExtensionHostConnection] New connection established.
+[2021-12-21 21:40:31.061] [remoteagent] [info] [127.0.0.1][c1d858bf][ExtensionHostConnection] <40968> Launched Extension Host Process.
+[2021-12-21 21:40:31.113] [remoteagent] [info] [127.0.0.1][e6b256d4][ManagementConnection] New connection established.
+[2021-12-21 21:40:49.265] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 21:40:54.491] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:40:54.499] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:40:58.562] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:40:58.589] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:41:01.588] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:41:01.588] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:41:03.111] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:41:03.113] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:41:05.349] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:41:05.350] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:41:07.822] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:41:07.826] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-21 21:45:34.261] [remoteagent] [info] [127.0.0.1][e4ab418a][ExtensionHostConnection] <16769> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 21:45:47.271] [remoteagent] [info] [127.0.0.1][593cc6f1][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-12-21 21:47:15.604] [remoteagent] [info] [127.0.0.1][e6b256d4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-21 21:50:02.360] [remoteagent] [info] [127.0.0.1][e6b256d4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-21 21:50:02.361] [remoteagent] [info] [127.0.0.1][747c0557][ManagementConnection] New connection established.
+[2021-12-21 21:50:02.368] [remoteagent] [info] [127.0.0.1][e8a6b25b][ExtensionHostConnection] New connection established.
+[2021-12-21 21:50:02.410] [remoteagent] [info] [127.0.0.1][e8a6b25b][ExtensionHostConnection] <41420> Launched Extension Host Process.
+[2021-12-21 21:50:18.097] [remoteagent] [info] [127.0.0.1][747c0557][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-21 21:50:18.192] [remoteagent] [info] [127.0.0.1][e8a6b25b][ExtensionHostConnection] <41420> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 21:50:32.581] [remoteagent] [info] [127.0.0.1][06cd1fb8][ExtensionHostConnection] New connection established.
+[2021-12-21 21:50:32.628] [remoteagent] [info] [127.0.0.1][06cd1fb8][ExtensionHostConnection] <41538> Launched Extension Host Process.
+[2021-12-21 21:50:32.641] [remoteagent] [info] [127.0.0.1][5fa7e374][ManagementConnection] New connection established.
+[2021-12-21 21:50:36.425] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:36.427] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:50:38.020] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:38.023] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:50:38.977] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:38.977] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:50:39.694] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:39.708] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:50:40.718] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:40.722] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2021-12-21 21:50:42.836] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/dmitrievasa)
+[2021-12-21 21:50:42.838] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2021-12-21 21:55:03.450] [remoteagent] [info] [127.0.0.1][c1d858bf][ExtensionHostConnection] <40968> Extension Host Process exited with code: 0, signal: null.
+[2021-12-21 21:55:04.878] [remoteagent] [info] [127.0.0.1][e6b256d4][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-12-21 23:27:22.291] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 23:27:33.839] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-21 23:28:14.723] [remoteagent] [info] [127.0.0.1][5fa7e374][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-12-21 23:31:07.672] [remoteagent] [info] [127.0.0.1][5fa7e374][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-12-21 23:31:07.678] [remoteagent] [info] [127.0.0.1][5fa7e374][ManagementConnection] The client has reconnected.
+[2021-12-21 23:31:07.706] [remoteagent] [info] [127.0.0.1][06cd1fb8][ExtensionHostConnection] The client has reconnected.
+[2021-12-21 23:37:33.607] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
